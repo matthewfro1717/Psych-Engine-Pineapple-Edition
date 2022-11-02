@@ -28,7 +28,7 @@ class FreeplayState extends MusicBeatState
 	var curSelected:Int = 0;
 	var curDifficulty:Int = 1;
 
-	var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image('backgrounds/SUSSUS AMOGUS'));
+	var bg:FlxSprite;
 
 	var scoreBG:FlxSprite;
 	var scoreText:FlxText;
