@@ -1,0 +1,31 @@
+{
+	"storyName": "Squidward - Red Mist.",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "squidward",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"alone",
+			"squidward2",
+			[
+				0,
+				0,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"3dbf",
+		""
+	],
+	"weekName": "Squidward"
+}

@@ -1,0 +1,24 @@
+{
+	"position": [
+		200,
+		80
+	],
+	"dialogue_pos": "left",
+	"scale": 1.35,
+	"image": "Dialoguesquidward",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dialoguesquidward sad",
+			"idle_name": "dialoguesquidward sad"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.7,
+		"stage": "sb129",
+		"player1": "hand",
+		"player2": "sb129",
+		"player3": null,
+		"events": [
+			[
+				174400,
+				[
+					[
+						"Opponent Fade",
+						"7",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "Nothing",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "boundary"
+	}
+}

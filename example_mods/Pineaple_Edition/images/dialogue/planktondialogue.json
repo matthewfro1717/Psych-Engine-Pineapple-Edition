@@ -1,0 +1,76 @@
+{
+	"position": [
+		170,
+		130
+	],
+	"dialogue_pos": "left",
+	"scale": 0.949999999999999,
+	"image": "Planktondialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "laugh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Planktondialogue laugh",
+			"idle_name": "Planktondialogue laugh"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "speak",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Planktondialogue speak",
+			"idle_name": "Planktondialogue speak"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Planktondialogue happy",
+			"idle_name": "Planktondialogue happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Planktondialogue mad",
+			"idle_name": "Planktondialogue mad"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "point",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Planktondialogue point",
+			"idle_name": "Planktondialogue point"
+		}
+	]
+}

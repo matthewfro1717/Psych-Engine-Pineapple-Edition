@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				360
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "2Ddave Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				360
+			],
+			"anim": "singLEFT",
+			"fps": 29,
+			"name": "2Ddave Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				360
+			],
+			"anim": "singDOWN",
+			"fps": 29,
+			"name": "2Ddave Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				360
+			],
+			"anim": "singRIGHT",
+			"fps": 29,
+			"name": "2Ddave Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				360
+			],
+			"anim": "singUP",
+			"fps": 29,
+			"name": "2Ddave Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/2ddave",
+	"position": [
+		450,
+		540
+	],
+	"healthicon": "2ddave",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		95,
+		235
+	],
+	"camera_position": [
+		-340,
+		-290
+	],
+	"sing_duration": 3.00000000000001,
+	"scale": 0.8
+}

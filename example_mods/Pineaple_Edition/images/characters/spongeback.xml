@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spongeback.png"><SubTexture name="spongeback Idle0000" x="0" y="0" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+<SubTexture name="spongeback Down0000" x="873" y="0" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+<SubTexture name="spongeback Down0001" x="1746" y="0" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+<SubTexture name="spongeback Left0000" x="0" y="873" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+<SubTexture name="spongeback Left0001" x="873" y="873" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+<SubTexture name="spongeback Right0000" x="1746" y="873" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+<SubTexture name="spongeback Right0001" x="0" y="1746" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+<SubTexture name="spongeback Up0000" x="873" y="1746" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+<SubTexture name="spongeback Up0001" x="1746" y="1746" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+</TextureAtlas>

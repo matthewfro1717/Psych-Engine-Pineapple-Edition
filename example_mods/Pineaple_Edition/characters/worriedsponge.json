@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "worriedsponge Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "worriedsponge Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "worriedsponge Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "worriedsponge Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "worriedsponge Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/worriedsponge",
+	"position": [
+		-450,
+		-540
+	],
+	"healthicon": "sponge",
+	"flip_x": true,
+	"healthbar_colors": [
+		228,
+		225,
+		0
+	],
+	"camera_position": [
+		-520,
+		480
+	],
+	"sing_duration": 4,
+	"scale": 0.43
+}

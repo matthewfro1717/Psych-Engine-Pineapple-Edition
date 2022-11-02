@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				55,
+				80
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "3DBF Idle"
+		},
+		{
+			"offsets": [
+				59,
+				74
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "3DBF Down"
+		},
+		{
+			"offsets": [
+				58,
+				74
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "3DBF Up"
+		},
+		{
+			"offsets": [
+				60,
+				74
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "3DBF Right"
+		},
+		{
+			"offsets": [
+				58,
+				74
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "3DBF Left"
+		},
+		{
+			"offsets": [
+				61,
+				74
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "hey",
+			"indices": [],
+			"name": "3DBF yeah"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/3DBF",
+	"position": [
+		-410,
+		30
+	],
+	"healthicon": "3dbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		176,
+		229
+	],
+	"camera_position": [
+		-510,
+		310
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

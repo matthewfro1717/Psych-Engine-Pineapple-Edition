@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_3dbf.png"><SubTexture name="M BF Idle0000" x="0" y="0" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+<SubTexture name="M bf HEY0000" x="873" y="0" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+<SubTexture name="M bf HEY0001" x="0" y="873" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+<SubTexture name="M bf HEY0002" x="873" y="873" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+</TextureAtlas>

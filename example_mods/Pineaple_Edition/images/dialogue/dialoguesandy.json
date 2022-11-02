@@ -1,0 +1,50 @@
+{
+	"position": [
+		40,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1.1,
+	"image": "dialoguesandy",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dialoguesandy happy",
+			"idle_name": "dialoguesandy happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "unhappy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dialoguesandy unhappy",
+			"idle_name": "dialoguesandy unhappy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "speak",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dialoguesandy speak",
+			"idle_name": "dialoguesandy speak"
+		}
+	]
+}

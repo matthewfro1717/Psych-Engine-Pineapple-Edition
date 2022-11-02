@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bamb.png"><SubTexture name="bamb mad0000" x="0" y="0" width="634" height="574" frameX="0" frameY="0" frameWidth="634" frameHeight="574" />
+<SubTexture name="bamb happy0000" x="0" y="574" width="634" height="574" frameX="0" frameY="0" frameWidth="634" frameHeight="574" />
+<SubTexture name="bamb angry0000" x="0" y="1148" width="634" height="574" frameX="0" frameY="0" frameWidth="634" frameHeight="574" />
+</TextureAtlas>

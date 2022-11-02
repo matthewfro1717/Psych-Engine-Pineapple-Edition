@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "Spongebot Idle"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Spongebot Left"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Spongebot Right"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Spongebot Down"
+		},
+		{
+			"offsets": [
+				0,
+				50
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Spongebot Up"
+		},
+		{
+			"offsets": [
+				-300,
+				-610
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "attack",
+			"indices": [],
+			"name": "Spongebot attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Spongebot",
+	"position": [
+		-650,
+		-670
+	],
+	"healthicon": "spongebot",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		20,
+		0
+	],
+	"camera_position": [
+		-590,
+		-410
+	],
+	"sing_duration": 4,
+	"scale": 1.83
+}

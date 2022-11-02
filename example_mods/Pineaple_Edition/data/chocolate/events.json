@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 4,
+		"stage": "chocolatestage",
+		"player1": "bf",
+		"player2": "chocolate",
+		"player3": null,
+		"events": [
+			[
+				21942.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						"0,03"
+					],
+					[
+						"Play Animation",
+						"scared",
+						"1"
+					]
+				]
+			],
+			[
+				131657.142857143,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "chocolate"
+	}
+}

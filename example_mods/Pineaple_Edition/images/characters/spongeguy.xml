@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spongeguy.png"><SubTexture name="spongeguy Idle0000" x="0" y="0" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="spongeguy Idle0001" x="604" y="0" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="spongeguy Idle0002" x="1208" y="0" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="spongeguy Idle0003" x="0" y="504" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="spongeguy Left0000" x="604" y="504" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="spongeguy Left0001" x="1208" y="504" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="spongeguy Up0000" x="0" y="1008" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="spongeguy Up0001" x="604" y="1008" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="spongeguy Right0000" x="1208" y="1008" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="spongeguy Right0001" x="0" y="1512" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="spongeguy Down0000" x="604" y="1512" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+<SubTexture name="spongeguy Down0001" x="1208" y="1512" width="604" height="504" frameX="0" frameY="0" frameWidth="604" frameHeight="504" />
+</TextureAtlas>

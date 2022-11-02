@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.035,
+			"portrait": "bamb",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "This was.."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "bamb",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "kinda fun actually."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spongeguy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I told you!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bamb",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "How about another song?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "spongeguy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Sure!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bamb",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Btw-"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bamb",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "How do you breath without a helmet?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "spongeguy",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "This is a video game, not everything makes sense here."
+		},
+		{
+			"speed": 0.02,
+			"portrait": "bamb",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "True."
+		}
+	]
+}

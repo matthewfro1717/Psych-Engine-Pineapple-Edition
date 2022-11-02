@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sandy2.png"><SubTexture name="Sandy2 Idle0000" x="0" y="0" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+<SubTexture name="Sandy2 Idle0001" x="1404" y="0" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+<SubTexture name="Sandy2 Idle0002" x="2808" y="0" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+<SubTexture name="Sandy2 Idle0003" x="0" y="1404" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+<SubTexture name="Sandy2 Idle0004" x="1404" y="1404" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+<SubTexture name="Sandy2 Idle0005" x="2808" y="1404" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+<SubTexture name="Sandy2 Idle0006" x="0" y="2808" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+<SubTexture name="Sandy2 Right0000" x="1404" y="2808" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+<SubTexture name="Sandy2 Right0001" x="2808" y="2808" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+<SubTexture name="Sandy2 Up0000" x="0" y="4212" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+<SubTexture name="Sandy2 Up0001" x="1404" y="4212" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+<SubTexture name="Sandy2 Left0000" x="2808" y="4212" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+<SubTexture name="Sandy2 Left0001" x="0" y="5616" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+<SubTexture name="Sandy2 Down0000" x="1404" y="5616" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+<SubTexture name="Sandy2 Down0001" x="2808" y="5616" width="1404" height="1404" frameX="0" frameY="0" frameWidth="1404" frameHeight="1404" />
+</TextureAtlas>

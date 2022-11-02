@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				280
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "squidward Up"
+		},
+		{
+			"offsets": [
+				40,
+				190
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": false,
+			"name": "squidward Idle"
+		},
+		{
+			"offsets": [
+				80,
+				190
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "squidward Left"
+		},
+		{
+			"offsets": [
+				-60,
+				130
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "squidward Right"
+		},
+		{
+			"offsets": [
+				20,
+				120
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "squidward Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Squidward",
+	"position": [
+		-650,
+		-670
+	],
+	"healthicon": "squidward",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		185,
+		180
+	],
+	"camera_position": [
+		640,
+		570
+	],
+	"sing_duration": 4,
+	"scale": 0.33
+}

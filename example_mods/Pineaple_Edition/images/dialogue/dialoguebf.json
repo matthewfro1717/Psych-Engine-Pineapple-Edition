@@ -1,0 +1,50 @@
+{
+	"position": [
+		-370,
+		-290
+	],
+	"dialogue_pos": "right",
+	"scale": 0.399999999999999,
+	"image": "Dialoguebf",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dialoguebf happy",
+			"idle_name": "dialoguebf happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dialoguebf confused",
+			"idle_name": "dialoguebf confused"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "scared",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dialoguebf scared",
+			"idle_name": "dialoguebf scared"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="madbamb.png"><SubTexture name="madbamb Idle0000" x="0" y="0" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="madbamb Idle0001" x="484" y="0" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="madbamb Idle0002" x="968" y="0" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="madbamb Idle0003" x="0" y="484" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="madbamb Left0000" x="484" y="484" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="madbamb Left0001" x="968" y="484" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="madbamb Up0000" x="0" y="968" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="madbamb Up0001" x="484" y="968" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="madbamb Right0000" x="968" y="968" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="madbamb Right0001" x="0" y="1452" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="madbamb Down0000" x="484" y="1452" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="madbamb Down0001" x="968" y="1452" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+</TextureAtlas>

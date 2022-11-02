@@ -1,0 +1,50 @@
+{
+	"position": [
+		50,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "bambi",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bambi mad",
+			"idle_name": "bambi mad"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bambi angry",
+			"idle_name": "bambi angry"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "speak",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bambi speak",
+			"idle_name": "bambi speak"
+		}
+	]
+}

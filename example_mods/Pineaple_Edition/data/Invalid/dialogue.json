@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.055,
+			"portrait": "worriedsponge",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "This place looks weird."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "speak",
+			"text": "HEY YOU!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "worriedsponge",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Huh?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "dave",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Who are you and what are you doing here!?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "worriedsponge",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "I am Spongebob and uh..."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "worriedsponge",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Sandy build a machine that teleported us to this dimension and now we are here and I don't know where I am-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "That's.."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "speak",
+			"text": "That's the stupidest explanation I've ever heard!"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "worriedsponge",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "What!?"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "worriedsponge",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "What do you mean!?"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "worriedsponge",
+			"boxState": "angry",
+			"expression": "worried",
+			"text": "Im telling the truth!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "You're probably trying to steal my corn!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "speak",
+			"text": "Or maybe something else!?.."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Let me do this!"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "worriedsponge",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "???"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dialoguepatrick",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Are you sure that Spongebob is in this forest?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Skep bap bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguepatrick",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "We have been searching for 3 days!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Beep ba-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "angry",
+			"expression": "scared",
+			"text": "!!!"
+		}
+	]
+}

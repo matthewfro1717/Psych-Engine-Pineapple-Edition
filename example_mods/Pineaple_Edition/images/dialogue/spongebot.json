@@ -1,0 +1,24 @@
+{
+	"position": [
+		50,
+		120
+	],
+	"dialogue_pos": "center",
+	"scale": 1.9,
+	"image": "spongebot",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "spongebot talk",
+			"loop_name": "spongebot talk"
+		}
+	]
+}

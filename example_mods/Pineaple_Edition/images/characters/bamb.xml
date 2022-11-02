@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bamb.png"><SubTexture name="bamb Idle0000" x="0" y="0" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="bamb Idle0001" x="484" y="0" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="bamb Idle0002" x="968" y="0" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="bamb Idle0003" x="0" y="484" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="bamb Down0000" x="484" y="484" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="bamb Down0001" x="968" y="484" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="bamb Right0000" x="0" y="968" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="bamb Right0001" x="484" y="968" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="bamb Up0002" x="968" y="968" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="bamb Up0003" x="0" y="1452" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="bamb Left0000" x="484" y="1452" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+<SubTexture name="bamb Left0001" x="968" y="1452" width="484" height="484" frameX="0" frameY="0" frameWidth="484" frameHeight="484" />
+</TextureAtlas>

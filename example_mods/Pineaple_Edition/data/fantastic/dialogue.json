@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.045,
+			"portrait": "spongeguy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Hey there Bambi!"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bamb",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Spongebob?!"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bamb",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "What are you doing here?!?!"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bamb",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "DO YOU WANNA STEAL MY CORN??!"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "spongeguy",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "No."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "spongeguy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I wanna sing with you again."
+		},
+		{
+			"speed": 0.02,
+			"portrait": "bamb",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Wait, what-"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "spongeguy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yeah! It was fun singing with you last time!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bamb",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "So..You really don't wanna steal my corn?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spongeguy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "correct!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bamb",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Hm."
+		}
+	]
+}

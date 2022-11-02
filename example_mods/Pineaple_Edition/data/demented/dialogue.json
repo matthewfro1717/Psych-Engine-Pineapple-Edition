@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "speak",
+			"text": "Still don't wanna tell the truth, huh?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "worriedsponge",
+			"boxState": "angry",
+			"expression": "worried",
+			"text": "But Im telling the truth! I swear!"
+		},
+		{
+			"speed": 0.17,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "..."
+		}
+	]
+}

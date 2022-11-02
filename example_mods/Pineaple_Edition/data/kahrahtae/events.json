@@ -1,0 +1,799 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "spongebotstage",
+		"player1": "smallbf",
+		"player2": "spongebot",
+		"player3": null,
+		"events": [
+			[
+				12620.6896551724,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				12827.5862068966,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				13034.4827586207,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				26586.2068965517,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				27000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				27413.7931034483,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				28241.3793103448,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				28655.1724137931,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				29068.9655172414,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				33206.8965517242,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				33620.6896551724,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				34034.4827586207,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				34862.0689655173,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				35275.8620689655,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				35689.6551724138,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				55034.4827586207,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				55241.3793103448,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				55448.275862069,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				58344.8275862069,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				58551.724137931,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				58758.6206896552,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				67862.0689655172,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				68068.9655172414,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				68275.8620689655,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				71586.2068965517,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				71793.1034482758,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				76137.9310344827,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				76344.8275862069,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				76551.724137931,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				78206.8965517241,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				78413.7931034482,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				78620.6896551724,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				92793.1034482758,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				93206.8965517241,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				93620.6896551724,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				94448.2758620689,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				94862.0689655172,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				95275.8620689655,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				99413.7931034482,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				99827.5862068965,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				100241.379310345,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				101068.965517241,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				101482.75862069,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				101896.551724138,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				121241.379310345,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				121448.275862069,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				121655.172413793,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				124551.724137931,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				124758.620689655,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				124965.517241379,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				134068.965517241,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				134275.862068965,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				134482.75862069,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				137793.103448276,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				138206.896551724,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				142344.827586207,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				142551.724137931,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				142758.620689655,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				144413.793103448,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				144620.689655172,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				144827.586206896,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				159000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				159206.896551724,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				159413.793103448,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				160655.172413793,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				160862.068965517,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				161068.965517241,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				172241.379310345,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				172448.275862069,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				172655.172413793,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				173896.551724138,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				174103.448275862,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				174310.344827586,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				198931.034482758,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				199137.931034483,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				199344.827586207,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "spongebob_and_sandy",
+		"bpm": 145,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "kahrahtae"
+	}
+}

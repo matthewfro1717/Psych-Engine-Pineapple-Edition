@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-11,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mattress Down"
+		},
+		{
+			"offsets": [
+				-11,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mattress Up"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mattress Left"
+		},
+		{
+			"offsets": [
+				-33,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mattress Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "idle",
+			"indices": [],
+			"name": "mattress Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mattress",
+	"position": [
+		-280,
+		-10
+	],
+	"healthicon": "spongebobandpatrick",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		300,
+		330
+	],
+	"sing_duration": 4,
+	"scale": 0.43
+}

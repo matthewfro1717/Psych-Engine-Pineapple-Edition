@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.3,
+			"portrait": "dialoguesquidward",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.3,
+			"portrait": "dialoguesquidward",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.3,
+			"portrait": "dialoguesquidward",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.3,
+			"portrait": "dialoguesquidward",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.3,
+			"portrait": "dialoguesquidward",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.14,
+			"portrait": "dialoguesquidward",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Maybe this will help."
+		}
+	]
+}

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="titleEnter.png"><SubTexture name="Press Enter to Begin 0000" x="0" y="0" width="884" height="244" frameX="0" frameY="0" frameWidth="884" frameHeight="244" />
+<SubTexture name="ENTER PRESSED0000" x="0" y="244" width="884" height="244" frameX="0" frameY="0" frameWidth="884" frameHeight="244" />
+</TextureAtlas>

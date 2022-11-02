@@ -1,0 +1,169 @@
+{
+	"song": {
+		"speed": 1.5,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "spong",
+		"player3": null,
+		"events": [
+			[
+				5900,
+				[
+					[
+						"Change Character",
+						"1",
+						"spongebob"
+					]
+				]
+			],
+			[
+				7800,
+				[
+					[
+						"Change Character",
+						"1",
+						"spong"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Change Character",
+						"1",
+						"spongebob"
+					]
+				]
+			],
+			[
+				22400,
+				[
+					[
+						"Change Character",
+						"1",
+						"spongebob"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Change Character",
+						"1",
+						"spong"
+					]
+				]
+			],
+			[
+				30900,
+				[
+					[
+						"Change Character",
+						"1",
+						"spongebob"
+					]
+				]
+			],
+			[
+				37600,
+				[
+					[
+						"Change Character",
+						"1",
+						"spongebob"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Change Character",
+						"1",
+						"spong"
+					]
+				]
+			],
+			[
+				46400,
+				[
+					[
+						"Change Character",
+						"1",
+						"spongebob"
+					]
+				]
+			],
+			[
+				54400,
+				[
+					[
+						"Change Character",
+						"1",
+						"spong"
+					]
+				]
+			],
+			[
+				61300,
+				[
+					[
+						"Change Character",
+						"1",
+						"spongebob"
+					]
+				]
+			],
+			[
+				69300,
+				[
+					[
+						"Change Character",
+						"1",
+						"spong"
+					]
+				]
+			],
+			[
+				77000,
+				[
+					[
+						"Change Character",
+						"1",
+						"spongebob"
+					]
+				]
+			],
+			[
+				84500,
+				[
+					[
+						"Change Character",
+						"1",
+						"spong"
+					]
+				]
+			],
+			[
+				92400,
+				[
+					[
+						"Change Character",
+						"1",
+						"spongebob"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Spongewar"
+	}
+}

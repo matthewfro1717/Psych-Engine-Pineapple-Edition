@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spongebobstanding2.png"><SubTexture name="spongebobstanding2 Idle0000" x="0" y="0" width="1789" height="1448" frameX="0" frameY="0" frameWidth="1789" frameHeight="1448" />
+</TextureAtlas>

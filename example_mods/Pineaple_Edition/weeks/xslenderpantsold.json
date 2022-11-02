@@ -1,0 +1,31 @@
+{
+	"storyName": "Slenderpants - Old Version of Slenderpants!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "slenderpants",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"slenderpants-old",
+			"slenderpants",
+			[
+				255,
+				40,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"3dbf",
+		""
+	],
+	"weekName": "Slenderpants"
+}

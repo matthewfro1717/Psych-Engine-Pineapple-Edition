@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				69,
+				121
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Spongestanding Idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Spongestanding",
+	"position": [
+		-290,
+		-340
+	],
+	"healthicon": "sponge",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		215,
+		410
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="worriedsponge.png"><SubTexture name="worriedsponge Idle0000" x="0" y="0" width="1504" height="1554" frameX="0" frameY="0" frameWidth="1504" frameHeight="1554" />
+<SubTexture name="worriedsponge Up0000" x="1504" y="0" width="1504" height="1554" frameX="0" frameY="0" frameWidth="1504" frameHeight="1554" />
+<SubTexture name="worriedsponge Up0001" x="3008" y="0" width="1504" height="1554" frameX="0" frameY="0" frameWidth="1504" frameHeight="1554" />
+<SubTexture name="worriedsponge Right0000" x="0" y="1554" width="1504" height="1554" frameX="0" frameY="0" frameWidth="1504" frameHeight="1554" />
+<SubTexture name="worriedsponge Right0001" x="1504" y="1554" width="1504" height="1554" frameX="0" frameY="0" frameWidth="1504" frameHeight="1554" />
+<SubTexture name="worriedsponge Left0000" x="3008" y="1554" width="1504" height="1554" frameX="0" frameY="0" frameWidth="1504" frameHeight="1554" />
+<SubTexture name="worriedsponge Left0001" x="0" y="3108" width="1504" height="1554" frameX="0" frameY="0" frameWidth="1504" frameHeight="1554" />
+<SubTexture name="worriedsponge Down0000" x="1504" y="3108" width="1504" height="1554" frameX="0" frameY="0" frameWidth="1504" frameHeight="1554" />
+<SubTexture name="worriedsponge Down0001" x="3008" y="3108" width="1504" height="1554" frameX="0" frameY="0" frameWidth="1504" frameHeight="1554" />
+</TextureAtlas>

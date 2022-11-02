@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Spongebob.png"><SubTexture name="Spongebob Idle0000" x="0" y="0" width="2062" height="1955" frameX="0" frameY="0" frameWidth="2062" frameHeight="1955" />
+<SubTexture name="Spongebob Up0000" x="2062" y="0" width="2062" height="1955" frameX="0" frameY="0" frameWidth="2062" frameHeight="1955" />
+<SubTexture name="Spongebob Up0001" x="4124" y="0" width="2062" height="1955" frameX="0" frameY="0" frameWidth="2062" frameHeight="1955" />
+<SubTexture name="Spongebob Right0000" x="0" y="1955" width="2062" height="1955" frameX="0" frameY="0" frameWidth="2062" frameHeight="1955" />
+<SubTexture name="Spongebob Right0001" x="2062" y="1955" width="2062" height="1955" frameX="0" frameY="0" frameWidth="2062" frameHeight="1955" />
+<SubTexture name="Spongebob Left0000" x="4124" y="1955" width="2062" height="1955" frameX="0" frameY="0" frameWidth="2062" frameHeight="1955" />
+<SubTexture name="Spongebob Left0001" x="0" y="3910" width="2062" height="1955" frameX="0" frameY="0" frameWidth="2062" frameHeight="1955" />
+<SubTexture name="Spongebob Down0000" x="2062" y="3910" width="2062" height="1955" frameX="0" frameY="0" frameWidth="2062" frameHeight="1955" />
+<SubTexture name="Spongebob Down0001" x="4124" y="3910" width="2062" height="1955" frameX="0" frameY="0" frameWidth="2062" frameHeight="1955" />
+</TextureAtlas>

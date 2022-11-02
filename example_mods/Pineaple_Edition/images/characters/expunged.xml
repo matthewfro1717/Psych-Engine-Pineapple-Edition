@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="expunged.png"><SubTexture name="expunged Idle0000" x="0" y="0" width="1304" height="979" frameX="0" frameY="0" frameWidth="1304" frameHeight="979" />
+<SubTexture name="expunged Idle0001" x="1304" y="0" width="1304" height="979" frameX="0" frameY="0" frameWidth="1304" frameHeight="979" />
+<SubTexture name="expunged Idle0002" x="2608" y="0" width="1304" height="979" frameX="0" frameY="0" frameWidth="1304" frameHeight="979" />
+<SubTexture name="expunged Up0000" x="0" y="979" width="1304" height="979" frameX="0" frameY="0" frameWidth="1304" frameHeight="979" />
+<SubTexture name="expunged Up0001" x="1304" y="979" width="1304" height="979" frameX="0" frameY="0" frameWidth="1304" frameHeight="979" />
+<SubTexture name="expunged Down0000" x="2608" y="979" width="1304" height="979" frameX="0" frameY="0" frameWidth="1304" frameHeight="979" />
+<SubTexture name="expunged Down0001" x="0" y="1958" width="1304" height="979" frameX="0" frameY="0" frameWidth="1304" frameHeight="979" />
+<SubTexture name="expunged Right0000" x="1304" y="1958" width="1304" height="979" frameX="0" frameY="0" frameWidth="1304" frameHeight="979" />
+<SubTexture name="expunged Right0001" x="2608" y="1958" width="1304" height="979" frameX="0" frameY="0" frameWidth="1304" frameHeight="979" />
+<SubTexture name="expunged Left0000" x="0" y="2937" width="1304" height="979" frameX="0" frameY="0" frameWidth="1304" frameHeight="979" />
+<SubTexture name="expunged Left0001" x="1304" y="2937" width="1304" height="979" frameX="0" frameY="0" frameWidth="1304" frameHeight="979" />
+</TextureAtlas>

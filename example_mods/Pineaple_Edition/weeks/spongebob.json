@@ -1,0 +1,31 @@
+{
+	"storyName": "Spongebob - Have some FUN with Spongebob!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "spongebob",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Spongegod",
+			"sponge",
+			[
+				255,
+				255,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"3dbf",
+		""
+	],
+	"weekName": "Spongebob"
+}

@@ -1,0 +1,94 @@
+{
+	"storyName": "Freeplay Songs",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"schoolhouse",
+			"baldi",
+			[
+				0,
+				213,
+				0
+			]
+		],
+		[
+			"chocolate",
+			"chocolate",
+			[
+				255,
+				235,
+				0
+			]
+		],
+		[
+			"useless",
+			"bootleg",
+			[
+				146,
+				153,
+				0
+			]
+		],
+		[
+			"eternality",
+			"2ddave",
+			[
+				40,
+				95,
+				235
+			]
+		],
+		[
+			"holy-krab",
+			"krabs",
+			[
+				235,
+				0,
+				0
+			]
+		],
+		[
+			"haunted-mattress",
+			"spongebobandpatrick",
+			[
+				255,
+				255,
+				20
+			]
+		],
+		[
+			"futuristic",
+			"dave",
+			[
+				15,
+				40,
+				220
+			]
+		],
+		[
+			"boundary",
+			"sb129",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"3dbf",
+		""
+	],
+	"weekName": "Freeplay Songs"
+}

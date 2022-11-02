@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				110,
+				10
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sandy2 Left"
+		},
+		{
+			"offsets": [
+				-69,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sandy2 Right"
+		},
+		{
+			"offsets": [
+				21,
+				-90
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sandy2 Down"
+		},
+		{
+			"offsets": [
+				71,
+				60
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sandy2 Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 7,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sandy2 Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sandy2",
+	"position": [
+		-340,
+		-420
+	],
+	"healthicon": "sandy",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		95,
+		0
+	],
+	"camera_position": [
+		310,
+		340
+	],
+	"sing_duration": 4,
+	"scale": 0.53
+}

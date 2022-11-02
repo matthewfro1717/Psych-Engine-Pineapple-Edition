@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sandyback.png"><SubTexture name="sandyback Idle0000" x="0" y="0" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+<SubTexture name="sandyback Idle0001" x="0" y="873" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+<SubTexture name="sandyback Idle0002" x="0" y="1746" width="873" height="873" frameX="0" frameY="0" frameWidth="873" frameHeight="873" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-300,
+				-420
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "bootleg Idle"
+		},
+		{
+			"offsets": [
+				-301,
+				-420
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bootleg Right"
+		},
+		{
+			"offsets": [
+				-300,
+				-420
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bootleg Up"
+		},
+		{
+			"offsets": [
+				-300,
+				-420
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bootleg Left"
+		},
+		{
+			"offsets": [
+				-303,
+				-420
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bootleg Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bootleg",
+	"position": [
+		-650,
+		-670
+	],
+	"healthicon": "bootleg",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		175,
+		0
+	],
+	"camera_position": [
+		710,
+		940
+	],
+	"sing_duration": 4,
+	"scale": 0.33
+}

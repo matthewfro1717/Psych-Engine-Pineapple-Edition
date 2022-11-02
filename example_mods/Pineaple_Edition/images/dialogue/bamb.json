@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-30,
+		-20
+	],
+	"scale": 0.7,
+	"animations": [
+		{
+			"loop_name": "bamb happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bamb happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bamb mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bamb mad",
+			"anim": "mad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bamb angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bamb angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bamb"
+}

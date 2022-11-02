@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-380,
+				-470
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "Krabs Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-370,
+				-353
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "Krabs Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-380,
+				-344
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "Krabs Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-360,
+				-475
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "Krabs Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-370,
+				-405
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "Krabs Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Krabs",
+	"position": [
+		-800,
+		-930
+	],
+	"healthicon": "krabs",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		20,
+		20
+	],
+	"camera_position": [
+		670,
+		900
+	],
+	"sing_duration": 4,
+	"scale": 0.53
+}

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				175
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "Standingsquidward Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Standingsquidward",
+	"position": [
+		-290,
+		-340
+	],
+	"healthicon": "squidward",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		220,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

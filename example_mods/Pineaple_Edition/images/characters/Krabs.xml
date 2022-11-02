@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Krabs.png"><SubTexture name="Krabs Idle0000" x="0" y="0" width="1627" height="1718" frameX="0" frameY="0" frameWidth="1627" frameHeight="1718" />
+<SubTexture name="Krabs Up0000" x="1627" y="0" width="1627" height="1718" frameX="0" frameY="0" frameWidth="1627" frameHeight="1718" />
+<SubTexture name="Krabs Up0001" x="3254" y="0" width="1627" height="1718" frameX="0" frameY="0" frameWidth="1627" frameHeight="1718" />
+<SubTexture name="Krabs Right0000" x="0" y="1718" width="1627" height="1718" frameX="0" frameY="0" frameWidth="1627" frameHeight="1718" />
+<SubTexture name="Krabs Right0001" x="1627" y="1718" width="1627" height="1718" frameX="0" frameY="0" frameWidth="1627" frameHeight="1718" />
+<SubTexture name="Krabs Left0000" x="3254" y="1718" width="1627" height="1718" frameX="0" frameY="0" frameWidth="1627" frameHeight="1718" />
+<SubTexture name="Krabs Left0001" x="0" y="3436" width="1627" height="1718" frameX="0" frameY="0" frameWidth="1627" frameHeight="1718" />
+<SubTexture name="Krabs Down0000" x="1627" y="3436" width="1627" height="1718" frameX="0" frameY="0" frameWidth="1627" frameHeight="1718" />
+<SubTexture name="Krabs Down0001" x="3254" y="3436" width="1627" height="1718" frameX="0" frameY="0" frameWidth="1627" frameHeight="1718" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Planktondialogue.png"><SubTexture name="Planktondialogue speak0000" x="0" y="0" width="204" height="360" frameX="0" frameY="0" frameWidth="204" frameHeight="360" />
+<SubTexture name="Planktondialogue laugh0000" x="204" y="0" width="204" height="360" frameX="0" frameY="0" frameWidth="204" frameHeight="360" />
+<SubTexture name="Planktondialogue happy0000" x="0" y="360" width="204" height="360" frameX="0" frameY="0" frameWidth="204" frameHeight="360" />
+<SubTexture name="Planktondialogue mad0000" x="204" y="360" width="204" height="360" frameX="0" frameY="0" frameWidth="204" frameHeight="360" />
+<SubTexture name="Planktondialogue point0000" x="0" y="720" width="204" height="360" frameX="0" frameY="0" frameWidth="204" frameHeight="360" />
+</TextureAtlas>

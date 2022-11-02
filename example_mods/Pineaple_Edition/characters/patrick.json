@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				330,
+				360
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Patrick Idle"
+		},
+		{
+			"offsets": [
+				330,
+				360
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Patrick Left"
+		},
+		{
+			"offsets": [
+				330,
+				360
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Patrick Up"
+		},
+		{
+			"offsets": [
+				330,
+				360
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Patrick Down"
+		},
+		{
+			"offsets": [
+				330,
+				360
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Patrick Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Patrick",
+	"position": [
+		160,
+		80
+	],
+	"healthicon": "3dpatrick",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		172,
+		155
+	],
+	"camera_position": [
+		-300,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

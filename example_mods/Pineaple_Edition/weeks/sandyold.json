@@ -1,0 +1,31 @@
+{
+	"storyName": "Sandy Cheeks - Sandy's old song!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "sandy",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"yeehaw",
+			"sandy",
+			[
+				160,
+				95,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"3dbf",
+		""
+	],
+	"weekName": "tutorial"
+}

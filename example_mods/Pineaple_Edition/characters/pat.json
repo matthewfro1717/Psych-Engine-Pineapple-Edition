@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "pat Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pat Down"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pat Up"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pat Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pat Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pat",
+	"position": [
+		-270,
+		-300
+	],
+	"healthicon": "3dpatrick",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		160,
+		175
+	],
+	"camera_position": [
+		150,
+		380
+	],
+	"sing_duration": 4,
+	"scale": 0.53
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				360
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "spongeguy Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				360
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "spongeguy Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				334,
+				360
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "spongeguy Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				320,
+				357
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "spongeguy Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				360
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "spongeguy Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spongeguy",
+	"position": [
+		410,
+		610
+	],
+	"healthicon": "spongeguy",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		255,
+		0
+	],
+	"camera_position": [
+		270,
+		-290
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.8
+}

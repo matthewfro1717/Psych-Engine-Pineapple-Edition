@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 0.999999999999998,
+		"stage": "bed",
+		"player1": "squidward2",
+		"player2": "Nothing",
+		"player3": null,
+		"events": [
+			[
+				133333.333333333,
+				[
+					[
+						"Change Scroll Speed",
+						"18",
+						"1"
+					]
+				]
+			],
+			[
+				135111.111111111,
+				[
+					[
+						"Change Character",
+						"2",
+						"black"
+					],
+					[
+						"Change Character",
+						"0",
+						"black2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "Nothing",
+		"bpm": 135,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "alone"
+	}
+}

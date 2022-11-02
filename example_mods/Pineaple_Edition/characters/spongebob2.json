@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "Spongebob2 Idle"
+		},
+		{
+			"offsets": [
+				100,
+				10
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Spongebob2 Left"
+		},
+		{
+			"offsets": [
+				-120,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Spongebob2 Right"
+		},
+		{
+			"offsets": [
+				10,
+				-90
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Spongebob2 Down"
+		},
+		{
+			"offsets": [
+				0,
+				90
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Spongebob2 Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Spongebob2",
+	"position": [
+		-340,
+		-370
+	],
+	"healthicon": "sponge",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		205,
+		0
+	],
+	"camera_position": [
+		290,
+		320
+	],
+	"sing_duration": 4,
+	"scale": 0.53
+}

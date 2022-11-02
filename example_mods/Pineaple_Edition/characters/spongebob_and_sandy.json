@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				20
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "Spongebob_and_Sandy Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "Spongebob_and_Sandy Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "Spongebob_and_Sandy Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				20
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "Spongebob_and_Sandy Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "Spongebob_and_Sandy Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Spongebob_and_Sandy",
+	"position": [
+		-900,
+		-340
+	],
+	"healthicon": "sponge",
+	"flip_x": false,
+	"healthbar_colors": [
+		220,
+		255,
+		0
+	],
+	"camera_position": [
+		820,
+		490
+	],
+	"sing_duration": 4,
+	"scale": 0.2
+}

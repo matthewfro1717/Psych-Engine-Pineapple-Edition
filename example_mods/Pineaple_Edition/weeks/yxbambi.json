@@ -1,0 +1,40 @@
+{
+	"storyName": "Dave and Bambi - Spongebob is in some trouble!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bambi",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"invalid",
+			"dave",
+			[
+				15,
+				40,
+				220
+			]
+		],
+		[
+			"demented",
+			"bambi",
+			[
+				46,
+				233,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"3dbf",
+		""
+	],
+	"weekName": "Dave and Bambi"
+}

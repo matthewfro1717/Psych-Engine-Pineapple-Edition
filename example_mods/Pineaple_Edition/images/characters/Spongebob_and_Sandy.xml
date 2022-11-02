@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Spongebob_and_Sandy.png"><SubTexture name="Spongebob_and_Sandy Idle0000" x="0" y="0" width="2670" height="1347" frameX="0" frameY="0" frameWidth="2670" frameHeight="1347" />
+<SubTexture name="Spongebob_and_Sandy Idle0001" x="2670" y="0" width="2670" height="1347" frameX="0" frameY="0" frameWidth="2670" frameHeight="1347" />
+<SubTexture name="Spongebob_and_Sandy Idle0002" x="5340" y="0" width="2670" height="1347" frameX="0" frameY="0" frameWidth="2670" frameHeight="1347" />
+<SubTexture name="Spongebob_and_Sandy Up0000" x="0" y="1347" width="2670" height="1347" frameX="0" frameY="0" frameWidth="2670" frameHeight="1347" />
+<SubTexture name="Spongebob_and_Sandy Up0001" x="2670" y="1347" width="2670" height="1347" frameX="0" frameY="0" frameWidth="2670" frameHeight="1347" />
+<SubTexture name="Spongebob_and_Sandy Right0000" x="5340" y="1347" width="2670" height="1347" frameX="0" frameY="0" frameWidth="2670" frameHeight="1347" />
+<SubTexture name="Spongebob_and_Sandy Right0001" x="0" y="2694" width="2670" height="1347" frameX="0" frameY="0" frameWidth="2670" frameHeight="1347" />
+<SubTexture name="Spongebob_and_Sandy Left0000" x="2670" y="2694" width="2670" height="1347" frameX="0" frameY="0" frameWidth="2670" frameHeight="1347" />
+<SubTexture name="Spongebob_and_Sandy Left0001" x="5340" y="2694" width="2670" height="1347" frameX="0" frameY="0" frameWidth="2670" frameHeight="1347" />
+<SubTexture name="Spongebob_and_Sandy Down0000" x="0" y="4041" width="2670" height="1347" frameX="0" frameY="0" frameWidth="2670" frameHeight="1347" />
+<SubTexture name="Spongebob_and_Sandy Down0001" x="2670" y="4041" width="2670" height="1347" frameX="0" frameY="0" frameWidth="2670" frameHeight="1347" />
+</TextureAtlas>

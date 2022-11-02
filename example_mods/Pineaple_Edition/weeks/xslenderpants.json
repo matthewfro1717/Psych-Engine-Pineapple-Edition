@@ -1,0 +1,31 @@
+{
+	"storyName": "Slenderpants - Spongebob but as Slenderman!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "slenderpants",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"slenderpants",
+			"slenderpants",
+			[
+				255,
+				40,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"3dbf",
+		""
+	],
+	"weekName": "Slenderpants"
+}

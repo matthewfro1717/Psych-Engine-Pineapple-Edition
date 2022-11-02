@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.035,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Okay Spongebob! I think its time to go home again!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesponge",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Yeah, you're right!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesponge",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Its too dangerous in this 3D world!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "planktondialogue",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Hello there."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "dialoguesponge",
+			"boxState": "angry",
+			"expression": "worried",
+			"text": "PLANKTON?!"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "dialoguesponge",
+			"boxState": "angry",
+			"expression": "huh",
+			"text": "What are you doing here?!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "planktondialogue",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "I followed you two into this 3D dimension."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "planktondialogue",
+			"boxState": "normal",
+			"expression": "speak",
+			"text": "And told Dave and Bambi to get you, Spongebob."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "planktondialogue",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Which didn't work out so well."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "planktondialogue",
+			"boxState": "normal",
+			"expression": "speak",
+			"text": "Good thing that I have a plan B!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesponge",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Uhm.. what is the plan B?.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "planktondialogue",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "THIS!"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "spongebot",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep boop, Im ready."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dialoguesponge",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Hey! This robot looks like me!11!!!!1!!1!!"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "planktondialogue",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Yes, he does."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "planktondialogue",
+			"boxState": "normal",
+			"expression": "speak",
+			"text": "And YOU will battle him!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dialoguesponge",
+			"boxState": "angry",
+			"expression": "worried",
+			"text": "Wait WHAT?!"
+                                   },
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesponge",
+			"boxState": "angry",
+			"expression": "worried",
+			"text": "I CAN'T BATTLE HIM!"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "dialoguesponge",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "But Boyfriend could!"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "planktondialogue",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Sure I guess."
+		}
+	]
+}

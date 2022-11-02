@@ -1,0 +1,49 @@
+{
+	"storyName": "bambi - You wanna steal my corn?!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "farm",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"2dbf",
+		""
+	],
+	"songs": [
+		[
+			"fantastic",
+			"bamb",
+			[
+				0,
+				215,
+				0
+			]
+		],
+		[
+			"spongecorn",
+			"bamb",
+			[
+				0,
+				215,
+				0
+			]
+		],
+		[
+			"fishpaste",
+			"madbambi",
+			[
+				0,
+				215,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "farm"
+}

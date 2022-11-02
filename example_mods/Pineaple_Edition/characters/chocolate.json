@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-380,
+				-473
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "chocolate Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-380,
+				-474
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "chocolate Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-380,
+				-475
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "chocolate Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-380,
+				-475
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "chocolate Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-380,
+				-470
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "chocolate Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chocolate",
+	"position": [
+		-650,
+		-670
+	],
+	"healthicon": "chocolate",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		560,
+		640
+	],
+	"sing_duration": 4,
+	"scale": 0.73
+}

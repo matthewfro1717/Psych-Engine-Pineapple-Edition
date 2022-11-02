@@ -1,0 +1,31 @@
+{
+	"storyName": "Sandy Cheeks - A little warm up!",
+	"difficulties": "normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "sandy",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"texas",
+			"sandy",
+			[
+				160,
+				95,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"3dbf",
+		""
+	],
+	"weekName": "tutorial"
+}

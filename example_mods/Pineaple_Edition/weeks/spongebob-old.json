@@ -1,0 +1,31 @@
+{
+	"storyName": "Spongebob - Old Version of Spongegod!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "spongebob",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Spongegod-old",
+			"sponge",
+			[
+				255,
+				255,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"3dbf",
+		""
+	],
+	"weekName": "Spongebob"
+}

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "sandystage",
+		"player1": "bf",
+		"player2": "sandy",
+		"player3": null,
+		"events": [
+			[
+				29192.3076923077,
+				[
+					[
+						"Change Scroll Speed",
+						"1.4",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "Nothing",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "texas"
+	}
+}

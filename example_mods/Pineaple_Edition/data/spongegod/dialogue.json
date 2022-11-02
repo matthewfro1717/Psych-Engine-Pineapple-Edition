@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "dialoguesponge",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "WOW!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "dialoguesponge",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I LOVE THIS PLACE!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "dialoguesponge",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "We can even fly!!!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I know!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Hey Human?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Bap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Whats your name?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "skep bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "unhappy",
+			"text": "Boyfriend?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "unhappy",
+			"text": "Thats a weird name."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesponge",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Hey Boyfriend! I wanna sing too!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Bop bee!"
+		}
+	]
+}

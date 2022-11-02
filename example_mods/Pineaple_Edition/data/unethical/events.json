@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 4.1,
+		"stage": "expungedstage",
+		"player1": "spongeback",
+		"player2": "expunged",
+		"player3": null,
+		"events": [
+			[
+				90666.6666666666,
+				[
+					[
+						"Change Character",
+						"0",
+						"spongefront"
+					]
+				]
+			],
+			[
+				138666.666666667,
+				[
+					[
+						"Change Character",
+						"0",
+						"spongeback"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "Nothing",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "unethical"
+	}
+}

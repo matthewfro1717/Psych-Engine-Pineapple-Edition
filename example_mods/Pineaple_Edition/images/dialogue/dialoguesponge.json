@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		90,
+		10
+	],
+	"scale": 1.05,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dialoguesponge happy",
+			"loop_name": "dialoguesponge happy"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "worried",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dialoguesponge worried",
+			"loop_name": "dialoguesponge worried"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "huh",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dialoguesponge huh",
+			"loop_name": "dialoguesponge huh"
+		}
+	],
+	"image": "dialoguesponge"
+}

@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.02,
+			"portrait": "bamb",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "YOU BROKE MY PHONE!1!!11!!1!11!1!!!!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "spongeguy",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What do you mean! It literally fell out of your pocket."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bamb",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "I KNEW IT! YOU ARE JUST HEAR TO STEAL MY CORN, AND BREAK MY PHONE!!1!1!!!1!"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "spongeguy",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "No."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bamb",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "You will regret this."
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-230,
+				-30
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "idle",
+			"loop": true,
+			"name": "spongefront Idle"
+		},
+		{
+			"offsets": [
+				-221,
+				-26
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "spongefront Left"
+		},
+		{
+			"offsets": [
+				-230,
+				-25
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "spongefront Right"
+		},
+		{
+			"offsets": [
+				-227,
+				-22
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "spongefront Down"
+		},
+		{
+			"offsets": [
+				-227,
+				-23
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "spongefront Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spongefront",
+	"position": [
+		-320,
+		50
+	],
+	"healthicon": "sponge",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-620,
+		330
+	],
+	"sing_duration": 4,
+	"scale": 0.33
+}

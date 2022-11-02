@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-500,
+				-480
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "black Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/black",
+	"position": [
+		-280,
+		-340
+	],
+	"healthicon": "black2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-130,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 7.29999999999999
+}

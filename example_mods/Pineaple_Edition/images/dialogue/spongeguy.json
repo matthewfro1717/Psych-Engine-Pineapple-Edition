@@ -1,0 +1,50 @@
+{
+	"position": [
+		-180,
+		-20
+	],
+	"dialogue_pos": "right",
+	"scale": 0.649999999999999,
+	"image": "spongeguy",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spongeguy happy",
+			"idle_name": "spongeguy happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "huh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spongeguy huh",
+			"idle_name": "spongeguy huh"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "spongeguy confused",
+			"idle_name": "spongeguy confused"
+		}
+	]
+}

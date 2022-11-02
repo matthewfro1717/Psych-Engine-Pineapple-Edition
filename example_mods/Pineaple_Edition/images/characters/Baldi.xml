@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Baldi.png"><SubTexture name="Baldi Idle0000" x="0" y="0" width="1304" height="1304" frameX="0" frameY="0" frameWidth="1304" frameHeight="1304" />
+<SubTexture name="Baldi Down0000" x="1304" y="0" width="1304" height="1304" frameX="0" frameY="0" frameWidth="1304" frameHeight="1304" />
+<SubTexture name="Baldi Down0001" x="2608" y="0" width="1304" height="1304" frameX="0" frameY="0" frameWidth="1304" frameHeight="1304" />
+<SubTexture name="Baldi Left0000" x="0" y="1304" width="1304" height="1304" frameX="0" frameY="0" frameWidth="1304" frameHeight="1304" />
+<SubTexture name="Baldi Left0001" x="1304" y="1304" width="1304" height="1304" frameX="0" frameY="0" frameWidth="1304" frameHeight="1304" />
+<SubTexture name="Baldi Right0000" x="2608" y="1304" width="1304" height="1304" frameX="0" frameY="0" frameWidth="1304" frameHeight="1304" />
+<SubTexture name="Baldi Right0001" x="0" y="2608" width="1304" height="1304" frameX="0" frameY="0" frameWidth="1304" frameHeight="1304" />
+<SubTexture name="Baldi Up0000" x="1304" y="2608" width="1304" height="1304" frameX="0" frameY="0" frameWidth="1304" frameHeight="1304" />
+<SubTexture name="Baldi Up0001" x="2608" y="2608" width="1304" height="1304" frameX="0" frameY="0" frameWidth="1304" frameHeight="1304" />
+</TextureAtlas>

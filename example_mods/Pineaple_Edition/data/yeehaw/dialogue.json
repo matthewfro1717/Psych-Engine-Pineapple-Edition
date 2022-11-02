@@ -1,0 +1,158 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "IT WORKED!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "We now are in a different dimension!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesponge",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "WOW!!!!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "dialoguesponge",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "We are 3D!!1!!11!1!1!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yes we are!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bop bep!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "unhappy",
+			"text": "Huh-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "unhappy",
+			"text": "Who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesponge",
+			"boxState": "angry",
+			"expression": "worried",
+			"text": "OH NO!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesponge",
+			"boxState": "angry",
+			"expression": "worried",
+			"text": "ITS AN ALIEN!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesponge",
+			"boxState": "angry",
+			"expression": "worried",
+			"text": "SANDY RUN!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "That's not an Alien, Spongebob!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "speak",
+			"text": "That's a human!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesponge",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Ooh!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Bap skep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesponge",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "What is he saying?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "He wants to rapbattle us."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesponge",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Oh! I love singing!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I haven't sing in years, but I can try! Do you want it easy or har-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Bap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguesandy",
+			"boxState": "normal",
+			"expression": "speak",
+			"text": "Hard? Okay sure!"
+		}
+	]
+}

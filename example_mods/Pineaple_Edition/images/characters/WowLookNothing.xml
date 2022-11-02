@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="WowLookNothing.png"><SubTexture name="WowLookNothing0000" x="0" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+</TextureAtlas>

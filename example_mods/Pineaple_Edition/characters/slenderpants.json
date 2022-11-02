@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "Slenderpants Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Slenderpants Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Slenderpants Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Slenderpants Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Slenderpants Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Slenderpants",
+	"position": [
+		-470,
+		-420
+	],
+	"healthicon": "slenderpants",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		185,
+		175
+	],
+	"camera_position": [
+		540,
+		680
+	],
+	"sing_duration": 4,
+	"scale": 0.33
+}

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SB129.png"><SubTexture name="SB129 Idle0000" x="0" y="0" width="1162" height="873" frameX="0" frameY="0" frameWidth="1162" frameHeight="873" />
+<SubTexture name="SB129 Up0000" x="1162" y="0" width="1162" height="873" frameX="0" frameY="0" frameWidth="1162" frameHeight="873" />
+<SubTexture name="SB129 Up0001" x="2324" y="0" width="1162" height="873" frameX="0" frameY="0" frameWidth="1162" frameHeight="873" />
+<SubTexture name="SB129 Up0002" x="0" y="873" width="1162" height="873" frameX="0" frameY="0" frameWidth="1162" frameHeight="873" />
+<SubTexture name="SB129 Right0000" x="1162" y="873" width="1162" height="873" frameX="0" frameY="0" frameWidth="1162" frameHeight="873" />
+<SubTexture name="SB129 Right0001" x="2324" y="873" width="1162" height="873" frameX="0" frameY="0" frameWidth="1162" frameHeight="873" />
+<SubTexture name="SB129 Right0002" x="0" y="1746" width="1162" height="873" frameX="0" frameY="0" frameWidth="1162" frameHeight="873" />
+<SubTexture name="SB129 Down0000" x="1162" y="1746" width="1162" height="873" frameX="0" frameY="0" frameWidth="1162" frameHeight="873" />
+<SubTexture name="SB129 Down0001" x="2324" y="1746" width="1162" height="873" frameX="0" frameY="0" frameWidth="1162" frameHeight="873" />
+<SubTexture name="SB129 Left0000" x="0" y="2619" width="1162" height="873" frameX="0" frameY="0" frameWidth="1162" frameHeight="873" />
+<SubTexture name="SB129 Left0001" x="1162" y="2619" width="1162" height="873" frameX="0" frameY="0" frameWidth="1162" frameHeight="873" />
+<SubTexture name="SB129 Left0002" x="2324" y="2619" width="1162" height="873" frameX="0" frameY="0" frameWidth="1162" frameHeight="873" />
+</TextureAtlas>

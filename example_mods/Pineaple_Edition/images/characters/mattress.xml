@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mattress.png"><SubTexture name="mattress Idle0000" x="0" y="0" width="1404" height="1054" frameX="0" frameY="0" frameWidth="1404" frameHeight="1054" />
+<SubTexture name="mattress Idle0001" x="1404" y="0" width="1404" height="1054" frameX="0" frameY="0" frameWidth="1404" frameHeight="1054" />
+<SubTexture name="mattress Idle0002" x="2808" y="0" width="1404" height="1054" frameX="0" frameY="0" frameWidth="1404" frameHeight="1054" />
+<SubTexture name="mattress Down0000" x="0" y="1054" width="1404" height="1054" frameX="0" frameY="0" frameWidth="1404" frameHeight="1054" />
+<SubTexture name="mattress Down0001" x="1404" y="1054" width="1404" height="1054" frameX="0" frameY="0" frameWidth="1404" frameHeight="1054" />
+<SubTexture name="mattress Left0000" x="2808" y="1054" width="1404" height="1054" frameX="0" frameY="0" frameWidth="1404" frameHeight="1054" />
+<SubTexture name="mattress Left0001" x="0" y="2108" width="1404" height="1054" frameX="0" frameY="0" frameWidth="1404" frameHeight="1054" />
+<SubTexture name="mattress Up0000" x="1404" y="2108" width="1404" height="1054" frameX="0" frameY="0" frameWidth="1404" frameHeight="1054" />
+<SubTexture name="mattress Up0001" x="2808" y="2108" width="1404" height="1054" frameX="0" frameY="0" frameWidth="1404" frameHeight="1054" />
+<SubTexture name="mattress Right0000" x="0" y="3162" width="1404" height="1054" frameX="0" frameY="0" frameWidth="1404" frameHeight="1054" />
+<SubTexture name="mattress Right0001" x="1404" y="3162" width="1404" height="1054" frameX="0" frameY="0" frameWidth="1404" frameHeight="1054" />
+</TextureAtlas>
