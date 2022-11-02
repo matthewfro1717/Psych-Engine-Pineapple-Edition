@@ -91,9 +91,8 @@ class FreeplayState extends MusicBeatState
 					addWeek(['futuristic'], 16,['dave']);
 					addWeek(['boundary'], 17,['sb129']);
 					addWeek(['Spongewar'], 18,['spong']);
-			}
+			}	 
 		}
-
 
 		for (i in 0...WeekData.weeksList.length) {
 			if(weekIsLocked(WeekData.weeksList[i])) continue;
