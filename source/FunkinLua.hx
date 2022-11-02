@@ -2550,7 +2550,6 @@ class FunkinLua {
 			case 'oneshot': return FlxTweenType.ONESHOT;
 		}
 		return FlxTweenType.globalManager;
-	}
 
 	//Better optimized than using some getProperty shit or idk
 	function getFlxEaseByString(?ease:String = '') {
