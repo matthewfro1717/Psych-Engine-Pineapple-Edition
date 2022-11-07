@@ -41,8 +41,6 @@ class FreeplayState extends MusicBeatState
 	var intendedScore:Int = 0;
 	var intendedRating:Float = 0;
 
-	private var AllPossibleSongs:Array<String> = ["spongebob"];
-
 	private var grpSongs:FlxTypedGroup<Alphabet>;
 	private var curPlaying:Bool = false;
 
@@ -65,34 +63,6 @@ class FreeplayState extends MusicBeatState
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("In the Menus", null);
 		#end
-	}
-
-	public function LoadProperPack()
-		{
-			switch (AllPossibleSongs[CurrentPack].toLowerCase())
-			{
-				case 'spongebob':
-					addWeek(['texas', 'yeehaw'], 1, ['sandy']);
-					addWeek(['spongegod', 'spongegod-old'], 2,['sponge']);
-					addWeek(['alone'], 3,['sqidward2']);
-					addWeek(['slenderpants',], 4, ['slenderpants']);
-					addWeek(['yum'], 5,['yummer']);
-                                        addWeek(['invalid'], 6,['dave']);
-                                        addWeek(['demented'], 6,['bambi']);
-                                        addWeek(['kahrahtae'], 7,['spongebot']);
-					addWeek(['fantastic', 'spongecorn', 'fishpaste'], 8,['bamb']);
-					addWeek(['unethical'], 9,['expunged']);
-					addWeek(['schoolhouse'], 10,['balbi']);
-					addWeek(['chocolate'], 11,['chocolate']);
-					addWeek(['useless'], 12,['bootleg']);
-					addWeek(['eternality'], 13,['2ddave']);
-					addWeek(['holy-krab'], 14,['krabs']);
-					addWeek(['haunted-mattress'], 15,['spongebobandpatrick']);
-					addWeek(['futuristic'], 16,['dave']);
-					addWeek(['boundary'], 17,['sb129']);
-					addWeek(['Spongewar'], 18,['spong']);
-			}	 
-		}
 
 		for (i in 0...WeekData.weeksList.length) {
 			if(weekIsLocked(WeekData.weeksList[i])) continue;
