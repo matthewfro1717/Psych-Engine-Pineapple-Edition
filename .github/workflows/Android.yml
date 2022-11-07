@@ -66,6 +66,7 @@ jobs:
           haxelib git linc_luajit https://github.com/Daninnocent/linc_luajit.git --quiet
           haxelib install actuate 
           haxelib install hxCodec
+          haxelib install extension-androidtools
           haxelib list
           
       - name: Build Log
