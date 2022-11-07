@@ -65,6 +65,7 @@ jobs:
           haxelib git extension-webm https://github.com/KlavierGayming/extension-webm --quiet
           haxelib git linc_luajit https://github.com/Daninnocent/linc_luajit.git --quiet
           haxelib install actuate 
+          haxelib install hxCodec
           haxelib list
           
       - name: Build Log
