@@ -50,7 +50,7 @@ jobs:
           haxelib install hxCodec
           haxelib git linc_luajit https://github.com/jigsaw-4277821/linc_luajit.git
           haxelib git extension-androidtools https://github.com/randomxdp/extension-androidtools.git
-          haxelib git extension-videoview https://github.com/jigsaw-4277821/extension-videoview.git
+          haxelib git extension-videoview https://github.com/MAJigsaw77/extension-videoview.git
           haxelib list
       - name: Create Version Tag
         run: echo "${{github.run_id}}" > VERSION
