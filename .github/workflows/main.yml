@@ -65,6 +65,7 @@ jobs:
           haxelib git linc_luajit https://github.com/Daninnocent/linc_luajit.git --quiet
           haxelib install actuate
           haxelib git hxCodec https://github.com/polybiusproxy/hxCodec
+          haxelib git extension-androidtools https://github.com/MAJigsaw77/extension-androidtools.git
           haxelib list
           
       - name: Build Log
